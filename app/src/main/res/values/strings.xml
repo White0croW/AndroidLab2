@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="Calculate">ВЫЧИСЛИТЬ</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+</resources>
